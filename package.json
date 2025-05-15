@@ -2,7 +2,7 @@
   "name": "photo-gallery-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://uzzer-name.github.io/photo-gallery-app",
+  "homepage": "https://uzzer-name.github.io/crispy-journey",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
